@@ -3,3 +3,5 @@
 Chapter 1
 
 How to Start a Book
+
+Every book starts with a first word. From this, it follows that every book starts with a first letter.
