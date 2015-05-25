@@ -1,0 +1,8 @@
+# base file for chapter 1
+
+Chapter 1
+
+How to Start a Book
+
+Every book starts with a first word. From this, it follows that every book starts with a first letter.
+ Thus, we can call the first the initial letter.
