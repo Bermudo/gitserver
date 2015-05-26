@@ -1,3 +1,7 @@
 # main document\n\n
 # This is going to be the master document into which all branches will be merged.
 
+TABLE OF CONTENTS
+
+Chapter 1:    How to start
+Chapter 2:    How to continue
