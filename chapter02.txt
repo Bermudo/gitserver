@@ -4,3 +4,5 @@ Chapter 2
 
 How to Continue a Book
 
+We have written Chapter 1, now we'll start with Chapter 2.
+
