@@ -6,3 +6,5 @@ How to Continue a Book
 
 We have written Chapter 1, now we'll start with Chapter 2.
 
+Then, we shall proceed to Chapter 3.
+
