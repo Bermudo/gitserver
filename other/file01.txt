@@ -1,5 +1,6 @@
 # new test file
 
+First text line.
+
 Locally added text.
 
-First text line.
