@@ -1,10 +1,14 @@
 #base file for chapter 2
 
+
 Chapter 2
+
 
 How to Continue a Book
 
 We have written Chapter 1, now we'll start with Chapter 2.
 
-Then, we shall proceed to Chapter 3.
 
+Continuation
+
+Then, we shall proceed to Chapter 3.
